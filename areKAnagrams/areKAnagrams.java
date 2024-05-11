@@ -1,3 +1,5 @@
+package Task3.areKAnagrams;
+
 import java.util.HashMap;
 import java.util.Map;
 
